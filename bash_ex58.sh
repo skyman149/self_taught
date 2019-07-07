@@ -11,7 +11,7 @@ Save this file as index.html-->
 </head>
 <body>
      Hello, World!
-     <a href="https://www.google.com/>
+     Click <a href="http://www.google.com">here</a> to go to Google.
      click here</a>
 </body>
 </html>
